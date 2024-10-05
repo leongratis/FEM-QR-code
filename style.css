@@ -31,22 +31,22 @@ img{
 }
 
 nav h4{
- width: 85%;
- font-size: 24px;
+ width: 97%;
+ font-size: 20px;
  font-weight: 600;
  margin: 0 auto;
  margin-bottom: 12px;
 }
 
 nav p{
-    width: 78%;
+    width: 92%;
     margin: 0 auto;
     margin-bottom: 17px;
 }
 
-@media screen and (max-width:500px){
+@media screen and (max-width:480px){
     body{
-        max-width: 500px;
+        max-width: 480px;
         /* background-color: black; */
         background-color: rgb(210, 232, 252);
     }
